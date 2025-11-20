@@ -1,0 +1,6 @@
+default 0
+timeout 1
+
+title My Tiny OS - kernel.elf
+kernel /boot/kernel.elf
+boot
