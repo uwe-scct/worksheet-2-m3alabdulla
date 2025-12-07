@@ -71,6 +71,7 @@ You will see:
 ```
 Build complete: build/kernel.elf
 ```
+<img width="1366" height="297" alt="image" src="https://github.com/user-attachments/assets/5c2cd789-b91d-43e4-b4cd-ba9137b023b6" />
 
 ---
 
@@ -92,6 +93,7 @@ This:
 ```
 grub-mkrescue -o os.iso iso/
 ```
+<img width="922" height="57" alt="image" src="https://github.com/user-attachments/assets/7554d74b-5854-4c18-a3ad-91ea80692b8d" />
 
 which generates:
 
@@ -144,7 +146,8 @@ This confirms:
 
 ### ✔ ISO creation and build pipeline working correctly
 
----
+---<img width="1428" height="621" alt="image" src="https://github.com/user-attachments/assets/4a623f8a-79e8-4cb6-8f32-7ee428f07703" />
+
 
 ## **6. Limitations / Notes**
 
@@ -169,6 +172,7 @@ Removes:
 * `os.iso`
 
 ---
+<img width="946" height="39" alt="image" src="https://github.com/user-attachments/assets/fde432a0-4deb-4f7d-932c-32c507264844" />
 
 ## **8. Conclusion**
 
